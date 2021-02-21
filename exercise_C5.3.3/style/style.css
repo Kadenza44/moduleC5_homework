@@ -1,0 +1,34 @@
+h1{
+    color:cornflowerblue;
+}
+
+button{
+    padding: 7px;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+
+button:hover{
+    font-weight: bold;
+    background-color: rgb(102, 100, 237);
+}
+
+#result_reqest{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+    margin: 3px;
+    display: block;
+    width: 250px;
+    height: auto;
+
+}
+.image{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  
+}
